@@ -1,0 +1,10 @@
+# Ignore compiled artifacts and build directories
+/*/target/
+/*/Cargo.lock
+
+# Ignore editor-specific files
+.idea/
+.vscode/
+
+# Ignore generated documentation
+/*/doc/
